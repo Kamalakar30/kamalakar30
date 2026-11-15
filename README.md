@@ -1,101 +1,59 @@
-💫 About Me:
-🔭 I’m currently exploring
-🌱 Learning never stops!
-Inexorably pushing past bottlenecks, breaking paradigms. My pursuit isn’t peculiar,it’s imperative. Relentlessly proving wrong.
+# 💫 About Me:
+🔭 I’m currently exploring <br>🌱 Learning never stops! <br> Inexorably pushing past bottlenecks, breaking paradigms. My pursuit isn’t peculiar,it’s imperative. Relentlessly proving wrong.
 
 
-🚀 Passionate about turning ideas into practical applications.
+## 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chitla-kamalakar) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-# 🌐 Socials
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<p align="left">
-<a href="https://linkedin.com/in/chitla-kamalakar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Kamalakar30" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/kamalakarchitla" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://leetcode.com/Chitla_Kamalakar/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://kamalakar30.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
-# 💻 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css,react,vite,nextjs,tailwind,bootstrap,nodejs,express,fastapi,mongodb,mysql,git,github,postman,vscode&perline=8" />
-</p>
-
-**AI & Generative AI**
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-6A5ACD?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00897B?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Basics-FF6F00?style=flat-square)
-
-**Other Technologies**
-
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![CognoDB](https://img.shields.io/badge/CognoDB-444444?style=flat-square)
-
----
-
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 # 📊 GitHub Stats
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kamalakar30&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Kamalakar30&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Kamalakar30&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)
 
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalakar30&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kamalakar30&theme=shades-of-purple&hide_border=false)
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalakar30&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kamalakar30&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Kamalakar30&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Kamalakar30&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
 
-# 🔝 Featured Repositories
-
-<p align="center">
-<a href="https://github.com/Kamalakar30/jobico">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamalakar30&repo=jobico&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Kamalakar30/Skycast">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamalakar30&repo=Skycast&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Kamalakar30/store-rating-app">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamalakar30&repo=store-rating-app&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Kamalakar30/Problem-solving">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamalakar30&repo=Problem-solving&theme=tokyonight&hide_border=true" />
-</a>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamalakar30&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Kamalakar30&label=Profile%20Views&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-<p align="center">
-  <b>💡 Keep Learning | Keep Building | Keep Growing 🚀</b>
-</p>
+[![](https://visitcount.itsvg.in/api?id=Kamalakar30&icon=0&color=0)](https://visitcount.itsvg.in)
